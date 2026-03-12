@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 Task Overview | 任務概述
+## Task Overview | 任務概述
 The goal of this task was to resolve **overfitting** in a regression model by implementing regularization and feature engineering. The model was optimized to capture non-linear patterns while maintaining high generalization power.
 
 本任務目標是透過實作正則化與特徵工程來解決迴歸模型的**過擬合 (Overfitting)** 問題。模型經過優化後，能捕捉非線性數據趨勢並維持高度的泛化能力。
@@ -20,7 +20,7 @@ The goal of this task was to resolve **overfitting** in a regression model by im
 
 ---
 
-## 🛠️ Implementation Strategy | 實作策略
+## Implementation Strategy | 實作策略
 
 I utilized a **Scikit-Learn Pipeline** to ensure a professional workflow and prevent data leakage during scaling and cross-validation.
 
@@ -39,7 +39,7 @@ I utilized a **Scikit-Learn Pipeline** to ensure a professional workflow and pre
 
 ---
 
-## 📊 Results & Analysis | 結果與分析
+## Results & Analysis | 結果與分析
 
 The optimization process yielded a model that balances complexity and stability. The **Validation Curve** illustrates how the Mean Squared Error (MSE) changes with regularization strength.
 
