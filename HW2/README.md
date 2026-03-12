@@ -1,7 +1,7 @@
 # Machine Learning Assignment: Regularization & Polynomial Regression
 # 機器學習作業：正則化與多項式迴歸
 
-**Student Name / 姓名:** 范權榮 (Fan, Chuan-Jung)  
+**Student Name / 姓名:** 范權榮  
 **Student ID / 學號:** 111210557  
 **Reference / 參考事項:** GitHub Issue #4 - Addressing Overfitting
 
